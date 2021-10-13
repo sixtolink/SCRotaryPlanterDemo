@@ -1,0 +1,2 @@
+D:\SCRotaryPlanterDemo\Plugins\SCRotaryPlanter\Intermediate\Build\Win64\UE4Editor\Development\SCRotaryPlanter\Definitions.SCRotaryPlanter.h
+D:\SCRotaryPlanterDemo\Plugins\SCRotaryPlanter\Source\SCRotaryPlanter\Public\SCRotaryPlanter.h

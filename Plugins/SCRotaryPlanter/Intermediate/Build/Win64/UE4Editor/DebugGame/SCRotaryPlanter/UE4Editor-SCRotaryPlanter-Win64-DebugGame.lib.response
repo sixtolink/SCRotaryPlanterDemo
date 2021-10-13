@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCRotaryPlanter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\MyProject426\Intermediate\Build\Win64\MyProject426Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UEProject\MyProject426\Plugins\SCRotaryPlanter\Intermediate\Build\Win64\UE4Editor\DebugGame\SCRotaryPlanter\SCRotaryPlanter.cpp.obj"
+"D:\UEProject\MyProject426\Plugins\SCRotaryPlanter\Intermediate\Build\Win64\UE4Editor\DebugGame\SCRotaryPlanter\Default.rc2.res"
+/OUT:"D:\UEProject\MyProject426\Plugins\SCRotaryPlanter\Intermediate\Build\Win64\UE4Editor\DebugGame\SCRotaryPlanter\UE4Editor-SCRotaryPlanter-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_SCRotaryPlanter
